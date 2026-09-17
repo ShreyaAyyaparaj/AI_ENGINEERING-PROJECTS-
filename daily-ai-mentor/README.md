@@ -22,6 +22,9 @@ This project was built as a practical AI Engineering learning project, covering 
 ## 🏗️ Architecture
 
 ```text
+
+
+
                     Daily AI Mentor
                            │
                            ▼
@@ -46,6 +49,14 @@ This project was built as a practical AI Engineering learning project, covering 
                                   ▼
                                Email
 
+```
+
+
+
+
+
+
+##
 🧠 AI Engineering Concepts
 
 This project explores:
