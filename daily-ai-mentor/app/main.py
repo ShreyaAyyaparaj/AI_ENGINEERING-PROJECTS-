@@ -2,6 +2,7 @@ from llm import generate_lesson
 from prompts import DAILY_LESSON_PROMPT
 from pdf import create_lesson_pdf
 from emailer import send_email
+
 def main():
 
     topic = "Structured Outputs and Pydantic"
